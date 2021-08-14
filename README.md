@@ -1,6 +1,6 @@
 ### Olá, Mundo!
 
-- 🌱 Estudando Electron e VueJS
+- 🌱 Estudando ReactJS
 
 <div>
   <a href="https://github.com/K4UA">
