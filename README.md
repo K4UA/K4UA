@@ -5,8 +5,8 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=K4UA.K4UA)
 <div>
   <a href="https://github.com/K4UA">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=K4UA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4UA&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MRB1TE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRB1TE&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   
@@ -36,7 +36,7 @@
   
   ## Redes Sociais :
   
-  <img src="https://img.shields.io/badge/ZERUS-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MR.BYTE-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img src="https://img.shields.io/badge/@Zerus_fc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   
   ## Sistemas Operacionais :
