@@ -37,7 +37,7 @@
   ## Redes Sociais :
   
   <img src="https://img.shields.io/badge/ZERO-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-<img src="https://img.shields.io/badge/@Zerus_fc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/@K4UA_fc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   
   ## Sistemas Operacionais :
   
