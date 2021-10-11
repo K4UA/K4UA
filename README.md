@@ -39,6 +39,10 @@
   <img src="https://img.shields.io/badge/ZERO-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" /> <img src="https://img.shields.io/badge/K4UA-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 <img src="https://img.shields.io/badge/@K4UA_fc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   
+  ## Email:
+  
+  <img src="https://img.shields.io/badge/kauagama@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /> <img src="https://img.shields.io/badge/kauagama.0267r@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
   ## Sistemas Operacionais :
   
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
