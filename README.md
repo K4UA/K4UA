@@ -1,6 +1,6 @@
 ### Olá, Mundo!
 
--🌱 Estudando ReactJS- 
+-🌱 Estudando seguurannçça da iinformaçãao
 ##
 ![](https://visitor-badge.glitch.me/badge?page_id=K4UA.K4UA)
 <div>
