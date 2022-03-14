@@ -1,6 +1,6 @@
 ### Olá, Mundo!
 
--🌱 Estudando seguurannçça da iinformaçãao
+-🌱 Estudando nextjs
 ##
 ![](https://visitor-badge.glitch.me/badge?page_id=K4UA.K4UA)
 <div>
