@@ -1,25 +1,24 @@
-nome: Gerar Dados
+name: GitHub-Profile-3D-Contrib
 
-em:
-  horário:  # executar a cada 12 horas
-    - cron:  "* */12 * * *"  
+on:
+  schedule:
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
-empregos:
-  construir:
-    nome: Empregos para atualizar dados
+jobs:
+  build:
     runs-on: ubuntu-latest
-    passos:
-      # Animação cobra
-      - usos: Platane/snk@master
-        id: snake-gif
-        com:
-          github_user_name: K4UA
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - eua: crazy-max/ghaction-github-pages@v2.1.3
-        com:
-          target_branch: saída
-          build_dir: dist
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v2
+      - uses: K4UA/github-profile-3d-contrib@0.6.0
         env:
-          GITHUB_TOKEN: ${{{{ segredos. GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "generated"
+          git push
